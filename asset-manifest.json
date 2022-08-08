@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.5e82373c.css",
-    "main.js": "/static/js/main.840a9279.js",
+    "main.js": "/static/js/main.f5bbb78c.js",
     "static/js/787.b2e1b36e.chunk.js": "/static/js/787.b2e1b36e.chunk.js",
+    "static/media/portfolio2022.pdf": "/static/media/portfolio2022.69de08af4b7c3e41e6f7.pdf",
     "static/media/window.png": "/static/media/window.ea75c4189ca569a74e32.png",
     "static/media/stasis.png": "/static/media/stasis.fb376fdd3da05e6473d8.png",
     "static/media/moonflour.png": "/static/media/moonflour.047ac97d3862ba660340.png",
@@ -11,6 +12,7 @@
     "static/media/Jupiter.png": "/static/media/Jupiter.df8b0faa2af364010c0a.png",
     "static/media/devmnt3.png": "/static/media/devmnt3.0a0db6c13be61b9f93df.png",
     "static/media/stairs.png": "/static/media/stairs.8796de176b167469b400.png",
+    "static/media/designlizhuntsman.pdf": "/static/media/designlizhuntsman.b06c1ed77a53ce30b872.pdf",
     "static/media/wingers.png": "/static/media/wingers.7910bcf281507407ce07.png",
     "static/media/wtx1.jpg": "/static/media/wtx1.6d8f18795aebcdcf1829.jpg",
     "static/media/ladybug.png": "/static/media/ladybug.16241587f4d2a09d84fc.png",
@@ -19,11 +21,11 @@
     "static/media/hello.svg": "/static/media/hello.e34eb2bc7998c70f5e0fa796a573b542.svg",
     "index.html": "/index.html",
     "main.5e82373c.css.map": "/static/css/main.5e82373c.css.map",
-    "main.840a9279.js.map": "/static/js/main.840a9279.js.map",
+    "main.f5bbb78c.js.map": "/static/js/main.f5bbb78c.js.map",
     "787.b2e1b36e.chunk.js.map": "/static/js/787.b2e1b36e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e82373c.css",
-    "static/js/main.840a9279.js"
+    "static/js/main.f5bbb78c.js"
   ]
 }
